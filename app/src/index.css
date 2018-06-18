@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.itemImg{
+  width:50px;
+}
+
+.table{
+  text-align: center;
+}
+th{
+  text-align: center;
+}
